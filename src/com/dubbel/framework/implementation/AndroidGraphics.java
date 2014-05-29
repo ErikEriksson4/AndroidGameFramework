@@ -1,4 +1,4 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import android.content.res.AssetManager;
 import android.graphics.Bitmap;
@@ -13,8 +13,8 @@ import android.graphics.Rect;
 import java.io.IOException;
 import java.io.InputStream;
 
-import com.erikeriksson.framework.Graphics;
-import com.erikeriksson.framework.Image;
+import com.dubbel.framework.Graphics;
+import com.dubbel.framework.Image;
 
 public class AndroidGraphics implements Graphics {
 

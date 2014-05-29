@@ -1,4 +1,4 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -13,7 +13,7 @@ import android.content.res.AssetManager;
 import android.os.Environment;
 import android.preference.PreferenceManager;
 
-import com.erikeriksson.framework.FileIO;
+import com.dubbel.framework.FileIO;
 
 public class AndroidFileIO implements FileIO {
 

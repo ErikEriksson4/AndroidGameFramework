@@ -1,4 +1,4 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

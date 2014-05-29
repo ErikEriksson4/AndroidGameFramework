@@ -1,6 +1,6 @@
-package com.erikeriksson.framework;
+package com.dubbel.framework;
 
-import com.erikeriksson.framework.Graphics.ImageFormat;
+import com.dubbel.framework.Graphics.ImageFormat;
 
 public interface Image {
 

@@ -1,9 +1,9 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import android.graphics.Bitmap;
 
-import com.erikeriksson.framework.Graphics.ImageFormat;
-import com.erikeriksson.framework.Image;
+import com.dubbel.framework.Image;
+import com.dubbel.framework.Graphics.ImageFormat;
 
 public class AndroidImage implements Image{
 

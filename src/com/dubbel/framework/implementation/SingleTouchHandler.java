@@ -1,4 +1,4 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,9 +6,9 @@ import java.util.List;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.erikeriksson.framework.Input.TouchEvent;
-import com.erikeriksson.framework.Pool;
-import com.erikeriksson.framework.Pool.PoolObjectFactory;
+import com.dubbel.framework.Pool;
+import com.dubbel.framework.Input.TouchEvent;
+import com.dubbel.framework.Pool.PoolObjectFactory;
 
 public class SingleTouchHandler implements TouchHandler {
 

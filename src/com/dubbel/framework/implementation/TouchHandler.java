@@ -1,10 +1,10 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import java.util.List;
 
 import android.view.View.OnTouchListener;
 
-import com.erikeriksson.framework.Input.TouchEvent;
+import com.dubbel.framework.Input.TouchEvent;
 
 
 public interface TouchHandler extends OnTouchListener {

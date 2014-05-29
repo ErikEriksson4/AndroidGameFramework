@@ -1,4 +1,4 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import java.io.IOException;
 
@@ -9,7 +9,7 @@ import android.media.MediaPlayer.OnPreparedListener;
 import android.media.MediaPlayer.OnSeekCompleteListener;
 import android.media.MediaPlayer.OnVideoSizeChangedListener;
 
-import com.erikeriksson.framework.Music;
+import com.dubbel.framework.Music;
 
 public class AndroidMusic implements Music, OnCompletionListener,
 		OnSeekCompleteListener, OnPreparedListener, OnVideoSizeChangedListener {

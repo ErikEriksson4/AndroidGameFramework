@@ -1,4 +1,4 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import android.content.Context;
 import android.os.Build.VERSION;
 import android.view.View;
 
-import com.erikeriksson.framework.Input;
+import com.dubbel.framework.Input;
 
 public class AndroidInput implements Input {
 

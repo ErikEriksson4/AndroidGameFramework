@@ -1,8 +1,8 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import android.media.SoundPool;
 
-import com.erikeriksson.framework.Sound;
+import com.dubbel.framework.Sound;
 
 public class AndroidSound implements Sound {
 

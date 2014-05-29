@@ -1,4 +1,4 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import android.app.Activity;
 import android.content.Context;
@@ -12,12 +12,12 @@ import android.util.DisplayMetrics;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.erikeriksson.framework.Audio;
-import com.erikeriksson.framework.FileIO;
-import com.erikeriksson.framework.Game;
-import com.erikeriksson.framework.Graphics;
-import com.erikeriksson.framework.Input;
-import com.erikeriksson.framework.Screen;
+import com.dubbel.framework.Audio;
+import com.dubbel.framework.FileIO;
+import com.dubbel.framework.Game;
+import com.dubbel.framework.Graphics;
+import com.dubbel.framework.Input;
+import com.dubbel.framework.Screen;
 
 public class AndroidGame extends Activity implements Game {
 

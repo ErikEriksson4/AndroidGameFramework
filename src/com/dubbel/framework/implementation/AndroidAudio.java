@@ -1,4 +1,4 @@
-package com.erikeriksson.framework.implementation;
+package com.dubbel.framework.implementation;
 
 import java.io.IOException;
 
@@ -8,9 +8,9 @@ import android.content.res.AssetManager;
 import android.media.AudioManager;
 import android.media.SoundPool;
 
-import com.erikeriksson.framework.Audio;
-import com.erikeriksson.framework.Music;
-import com.erikeriksson.framework.Sound;
+import com.dubbel.framework.Audio;
+import com.dubbel.framework.Music;
+import com.dubbel.framework.Sound;
 
 public class AndroidAudio implements Audio {
 

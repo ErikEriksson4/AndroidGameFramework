@@ -1,4 +1,4 @@
-package com.erikeriksson.framework;
+package com.dubbel.framework;
 
 import java.util.ArrayList;
 import java.util.List;

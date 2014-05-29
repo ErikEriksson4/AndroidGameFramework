@@ -1,4 +1,4 @@
-package com.erikeriksson.framework;
+package com.dubbel.framework;
 
 public abstract class Screen {
 
